@@ -1,0 +1,130 @@
+{
+  "personal": {
+    "name": "Muthumula Ayyappa Reddy",
+    "title": "AI & Machine Learning Engineer | B.Tech CSE Student",
+    "tagline": "Passionate about Generative AI, RAG Systems, Transformer Models & Predictive Analytics",
+    "email": "ayyappareddy49777@gmail.com",
+    "phone": "+91 9115431408",
+    "linkedin": "https://www.linkedin.com/in/muthumula-ayyappa-reddy-698703432/",
+    "github": "https://github.com/AyyapppaReddy",
+    "location": "Punjab, India",
+    "profileSummary": "I am a Computer Science and Engineering student at Lovely Professional University with a strong interest in Artificial Intelligence, Machine Learning, Generative AI, NLP, and intelligent automation. I have hands-on experience developing AI/ML projects involving predictive analytics, feature engineering, Transformer-based models, and Retrieval-Augmented Generation (RAG). My projects include a Tropical Cyclone Formation and Intensity Prediction system, an Automatic MCQ Quiz Generator using Generative AI, and DocSensei, an intelligent PDF/DOCX question-answering system. I am also developing my knowledge of LLMs, Agentic AI, prompt engineering, AI agents, LangChain, and API-based AI applications, with a focus on building practical and impactful intelligent solutions."
+  },
+  "education": [
+    {
+      "institution": "Lovely Professional University",
+      "location": "Punjab, India",
+      "degree": "Bachelor of Technology - Computer Science and Engineering",
+      "duration": "Jul 2024 – Aug 2028",
+      "grade": "CGPA: 7.09",
+      "highlight": "Specializing in AI/ML, Data Structures, and Software Engineering."
+    },
+    {
+      "institution": "Narayana Junior College",
+      "location": "Nellore, Andhra Pradesh",
+      "degree": "Intermediate (MPC)",
+      "duration": "June 2022 – March 2024",
+      "grade": "Percentage: 95.4%",
+      "highlight": "Excellence in Mathematics, Physics, and Chemistry."
+    },
+    {
+      "institution": "Sri Venkateswara High School",
+      "location": "Kadapa, Andhra Pradesh",
+      "degree": "Matriculation (Secondary Education)",
+      "duration": "June 2021 – March 2022",
+      "grade": "Percentage: 91%",
+      "highlight": "Strong academic foundation in science and mathematics."
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "C", "C++", "Java"],
+    "machineLearning": ["Machine Learning", "Feature Engineering", "Data Analysis", "Predictive Analytics"],
+    "deepLearning": ["CNN", "Neural Networks", "Transformers", "NLP", "RAG"],
+    "libraries": ["NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-Learn", "PyTorch", "Hugging Face", "ChromaDB", "LangChain", "Streamlit"],
+    "coreSubjects": ["Data Structures & Algorithms", "Object-Oriented Programming", "Computer Programming"],
+    "softSkills": ["Problem Solving", "Adaptability", "Team Collaboration", "Intellectual Curiosity"]
+  },
+  "projects": [
+    {
+      "id": "cyclone-prediction",
+      "title": "Tropical Cyclone Formation & Intensity Prediction",
+      "subtitle": "Predictive Analytics for Disaster Preparedness",
+      "duration": "Aug 2026 – Sep 2026",
+      "github": "https://github.com/AyyapppaReddy",
+      "techStack": ["Python", "Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Seaborn", "Jupyter"],
+      "category": "Machine Learning",
+      "highlights": [
+        "Developed a machine learning-based system to predict tropical cyclone formation and intensity using historical meteorological and atmospheric datasets.",
+        "Performed comprehensive data pre-processing, feature engineering, and exploratory data analysis to identify important patterns influencing cyclone development.",
+        "Applied predictive analytics to support early warning systems, cyclone risk assessment, and improved disaster preparedness and response planning."
+      ]
+    },
+    {
+      "id": "mcq-generator",
+      "title": "Automatic MCQ Quiz Generator Using Generative AI",
+      "subtitle": "NLP & Transformer-Based Assessment Automation",
+      "duration": "Jun 2026 – Jul 2026",
+      "github": "https://github.com/AyyapppaReddy",
+      "techStack": ["Python", "NLP", "Transformers", "T5", "BART", "Hugging Face", "PyTorch", "Streamlit"],
+      "category": "Generative AI",
+      "highlights": [
+        "Developed an AI-powered system to automatically generate multiple-choice questions, answer keys, and explanations from uploaded educational learning materials.",
+        "Applied NLP and Transformer-based models, including T5 and BART, to generate contextually relevant and meaningful assessment questions.",
+        "Designed the solution to support personalized learning, automated assessments, and efficient generation of practice quizzes for students."
+      ]
+    },
+    {
+      "id": "doc-sensei",
+      "title": "Doc Sensei – Intelligent PDF & DOCX Question Answering System",
+      "subtitle": "Retrieval-Augmented Generation (RAG) Document QA",
+      "duration": "Jun 2026 – Jul 2026",
+      "github": "https://github.com/AyyapppaReddy",
+      "techStack": ["Python", "NLP", "Transformers", "T5", "BART", "Hugging Face", "PyTorch", "ChromaDB", "Streamlit"],
+      "category": "RAG / NLP",
+      "highlights": [
+        "Developed an AI-powered document question-answering system using Retrieval-Augmented Generation (RAG) to provide accurate, context-aware responses from uploaded documents.",
+        "Implemented document chunking, text embeddings, semantic search, and vector storage using ChromaDB to enable efficient and relevant information retrieval.",
+        "Deployed the application on Streamlit Community Cloud, allowing users to upload documents and interactively query their content through a conversational interface."
+      ]
+    }
+  ],
+  "training": [
+    {
+      "title": "AI Engineer Launchpad: Mastering LLMs and Agentic AI",
+      "issuer": "Certificate",
+      "duration": "Jun 2026 – Jul 2026",
+      "techStack": ["Python", "LLMs", "Generative AI", "Agentic AI", "Prompt Engineering", "AI Agents", "LangChain", "API"],
+      "highlights": [
+        "Completed a structured AI engineering course focused on Large Language Models (LLMs), Generative AI, and Agentic AI.",
+        "Developed foundational understanding of LLM applications, prompt engineering, AI agents, and agentic workflows through guided learning and practical exercises.",
+        "Strengthened skills in designing AI-powered solutions and automation workflows using modern generative AI concepts."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Data Structure and Algorithm",
+      "issuer": "iAmneo",
+      "date": "Jun 2026",
+      "badge": "DSA Certified"
+    },
+    {
+      "name": "Object Oriented Programming",
+      "issuer": "iAmneo",
+      "date": "Jun 2026",
+      "badge": "OOP Certified"
+    },
+    {
+      "name": "Programming in Java",
+      "issuer": "iAmneo",
+      "date": "May 2026",
+      "badge": "Java Specialist"
+    },
+    {
+      "name": "Computer Programming",
+      "issuer": "iAmneo",
+      "date": "May 2025",
+      "badge": "Programming Core"
+    }
+  ]
+}
